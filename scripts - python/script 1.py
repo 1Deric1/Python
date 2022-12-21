@@ -1,0 +1,5 @@
+nome = input("Qual seu nome?")
+idade = input("Qual seu peso?")
+peso = input("Qual sua idade?")
+cor = input("Qual sua cor de pele?")
+print (nome, peso, idade, cor)

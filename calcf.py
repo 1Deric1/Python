@@ -1,0 +1,5 @@
+n1 =float(input('Digite um nuúmero:'))
+n2 =float(input('digite outro número:'))
+print('Calculando a soma...')
+s = float (n1+n2)
+print ('A soma dos dois números vale: {}'.format(s))
